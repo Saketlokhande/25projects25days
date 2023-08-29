@@ -1,1 +1,1 @@
-# 50projects50days
+# 25projects25days
